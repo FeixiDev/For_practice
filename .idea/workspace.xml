@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff6d04d5-eff0-4771-a8a1-e3392c041534" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1abZPTRS3sC0hbnhxUXOl16qcwY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flask server.Flask (main.py)">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FlaskView" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (main.py)" type="Python.FlaskServer" temporary="true" nameIsGenerated="true">
+      <module name="FlaskView" />
+      <option name="target" value="$PROJECT_DIR$/main.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (manager.py)" type="Python.FlaskServer" temporary="true" nameIsGenerated="true">
+      <module name="FlaskView" />
+      <option name="target" value="$PROJECT_DIR$/manager.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FlaskView" type="Python.FlaskServer">
+      <module name="FlaskView" />
+      <option name="target" value="$PROJECT_DIR$/manager.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flask server.Flask (main.py)" />
+        <item itemvalue="Flask server.Flask (manager.py)" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff6d04d5-eff0-4771-a8a1-e3392c041534" name="Default Changelist" comment="" />
+      <created>1587006229305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587006229305</updated>
+      <workItem from="1587006245346" duration="10477000" />
+      <workItem from="1587364742613" duration="1270000" />
+      <workItem from="1587370359814" duration="15000" />
+      <workItem from="1589103006471" duration="1578000" />
+      <workItem from="1589163641582" duration="14898000" />
+      <workItem from="1589209182689" duration="644000" />
+      <workItem from="1589263099144" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="749" y="427" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1589175726743">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="749" y="427" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.798@0.23.1440.798" timestamp="1589175726743" />
+    <state width="1194" height="173" key="GridCell.Tab.0.bottom" timestamp="1589191404397">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1194" height="173" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1589188884515" />
+    <state width="1194" height="173" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1589190750885" />
+    <state width="1194" height="173" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1589191404397" />
+    <state width="1398" height="173" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1589183088849" />
+    <state width="747" height="135" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1587366802327" />
+    <state width="747" height="169" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1587031556015" />
+    <state width="747" height="169" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1587027071176" />
+    <state width="747" height="169" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1587028729597" />
+    <state width="1194" height="173" key="GridCell.Tab.0.center" timestamp="1589191404395">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1194" height="173" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1589188884514" />
+    <state width="1194" height="173" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1589190750884" />
+    <state width="1194" height="173" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1589191404395" />
+    <state width="1398" height="173" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1589183088848" />
+    <state width="747" height="135" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1587366802326" />
+    <state width="747" height="169" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1587031556014" />
+    <state width="747" height="169" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1587027071174" />
+    <state width="747" height="169" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1587028729595" />
+    <state width="1194" height="173" key="GridCell.Tab.0.left" timestamp="1589191404394">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1194" height="173" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1589188884513" />
+    <state width="1194" height="173" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1589190750884" />
+    <state width="1194" height="173" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1589191404394" />
+    <state width="1398" height="173" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1589183088847" />
+    <state width="747" height="135" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1587366802326" />
+    <state width="747" height="169" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1587031556013" />
+    <state width="747" height="169" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1587027071173" />
+    <state width="747" height="169" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1587028729594" />
+    <state width="1194" height="173" key="GridCell.Tab.0.right" timestamp="1589191404395">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1194" height="173" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1589188884514" />
+    <state width="1194" height="173" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1589190750885" />
+    <state width="1194" height="173" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1589191404395" />
+    <state width="1398" height="173" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1589183088849" />
+    <state width="747" height="135" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1587366802327" />
+    <state width="747" height="169" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1587031556015" />
+    <state width="747" height="169" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1587027071175" />
+    <state width="747" height="169" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1587028729596" />
+    <state width="1194" height="215" key="GridCell.Tab.1.bottom" timestamp="1589181673440">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1194" height="215" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1589166015486" />
+    <state width="1194" height="215" key="GridCell.Tab.1.bottom/0.23.1440.798@0.23.1440.798" timestamp="1589181673440" />
+    <state width="747" height="169" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1587031556017" />
+    <state width="747" height="169" key="GridCell.Tab.1.bottom/0.23.1440.812@0.23.1440.812" timestamp="1587028729611" />
+    <state width="1194" height="215" key="GridCell.Tab.1.center" timestamp="1589181673440">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1194" height="215" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1589166015485" />
+    <state width="1194" height="215" key="GridCell.Tab.1.center/0.23.1440.798@0.23.1440.798" timestamp="1589181673440" />
+    <state width="747" height="169" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1587031556016" />
+    <state width="747" height="169" key="GridCell.Tab.1.center/0.23.1440.812@0.23.1440.812" timestamp="1587028729609" />
+    <state width="1194" height="215" key="GridCell.Tab.1.left" timestamp="1589181673440">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1194" height="215" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1589166015484" />
+    <state width="1194" height="215" key="GridCell.Tab.1.left/0.23.1440.798@0.23.1440.798" timestamp="1589181673440" />
+    <state width="747" height="169" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1587031556016" />
+    <state width="747" height="169" key="GridCell.Tab.1.left/0.23.1440.812@0.23.1440.812" timestamp="1587028729608" />
+    <state width="1194" height="215" key="GridCell.Tab.1.right" timestamp="1589181673440">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1194" height="215" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1589166015486" />
+    <state width="1194" height="215" key="GridCell.Tab.1.right/0.23.1440.798@0.23.1440.798" timestamp="1589181673440" />
+    <state width="747" height="169" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1587031556016" />
+    <state width="747" height="169" key="GridCell.Tab.1.right/0.23.1440.812@0.23.1440.812" timestamp="1587028729610" />
+    <state x="458" y="95" key="SettingsEditor" timestamp="1589189893885">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="458" y="95" key="SettingsEditor/0.23.1440.798@0.23.1440.798" timestamp="1589189893885" />
+    <state x="540" y="139" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1587028717088">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="540" y="139" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.812@0.23.1440.812" timestamp="1587028717088" />
+    <state x="619" y="80" width="673" height="708" key="find.popup" timestamp="1587365697071">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="619" y="80" width="673" height="708" key="find.popup/0.23.1440.804@0.23.1440.804" timestamp="1587365697071" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FlaskView$Flask__main_py_.coverage" NAME="Flask (main.py) Coverage Results" MODIFIED="1589190750875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/FlaskView$Flask__manager_py_.coverage" NAME="Flask (manager.py) Coverage Results" MODIFIED="1589175257133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FlaskView$Flask__app_py_.coverage" NAME="Flask (manager.py) Coverage Results" MODIFIED="1587031176444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FlaskView$test.coverage" NAME="test Coverage Results" MODIFIED="1589166502362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

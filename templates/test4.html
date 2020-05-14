@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tests</title>
+    <script src="../static/jquery.js"></script>
+    <style>
+        *{
+    padding: 0; margin: 0; list-style: none;
+}
+/*初始化 a */
+a{
+    text-decoration: none; color: deepskyblue;
+}
+/*设置外层导航布局*/
+.nav-swrap>ul{
+    display: -webkit-box;
+    width: 80%;
+    height: 50px;
+    margin: 0 auto;
+}
+    </style>
+</head>
+<body>
+    <nav class="nav-swrap">
+        <ul>
+            <li><a href="#">首页</a> </li>
+            <li>
+                <a href="#">消息管理</a>
+                <ul class="sub-nav">
+                    <li><a href="#1">添加用户</a> </li>
+                    <li><a href="#">删除用户</a> </li>
+                    <li><a href="#">查询用户</a> </li>
+                </ul>
+            </li>
+            <li>
+                <a href="#">用户管理</a>
+                <ul class="sub-nav">
+                    <li><a href="#">添加用户</a> </li>
+                    <li><a href="#">删除用户</a> </li>
+                    <li><a href="#">修改用户</a> </li>
+                </ul>
+            </li>
+            <li><a href="#">头像</a></li>
+        </ul>
+    
+    </nav> 
+    <script>
+        var img = $('#user_head');
+        var menu = $('.nav_list');
+        var i=0;
+        var timer;
+        img.mouseenter(function () {
+            clearTimeout(timer)
+            menu.show()
+        })
+        img.mouseleave(function () {
+            timer = window.setTimeout(function () {
+                menu.hide()
+            },500)
+        })
+        menu.mouseenter(function () {
+            clearTimeout(timer)
+            // menu.css('visibility','vidible')
+        })
+        menu.mouseleave(function () {
+            menu.hide()
+        })
+    </script>
+</body>
+</html>
